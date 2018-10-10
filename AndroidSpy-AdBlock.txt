@@ -1,0 +1,16 @@
+||log.avlyun.com^
+||avlyun.com^
+||qq.com^
+||icecyber.org^
+||meizu.com^
+||mozaws.net^
+||settings.prod.mozaws.net^
+||open-app.meizu.com^
+||gvt1.com^
+||flyme.cn^
+||gingmang.mobi^
+||appsflyer.tk^
+||apptornado.com^
+||appbrain.com^
+||location.services.mozilla.com^
+||doubleclick.net^

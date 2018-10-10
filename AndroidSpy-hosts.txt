@@ -1,0 +1,16 @@
+127.0.0.1 log.avlyun.com
+127.0.0.1 avlyun.com
+127.0.0.1 qq.com
+127.0.0.1 icecyber.org
+127.0.0.1 meizu.com
+127.0.0.1 mozaws.net
+127.0.0.1 settings.prod.mozaws.net
+127.0.0.1 open-app.meizu.com
+127.0.0.1 gvt1.com
+127.0.0.1 flyme.cn
+127.0.0.1 gingmang.mobi
+127.0.0.1 appsflyer.tk
+127.0.0.1 apptornado.com
+127.0.0.1 appbrain.com
+127.0.0.1 location.services.mozilla.com
+127.0.0.1 doubleclick.net
