@@ -1,3 +1,10 @@
+127.0.0.1 exception.uxip.meizu.com
+127.0.0.1 mvconf.f.360.cn
+127.0.0.1 ni.qingmang.mobi
+127.0.0.1 uxip.meizu.com
+127.0.0.1 uxip.in.meizu.com
+127.0.0.1 i.flyme.cn
+127.0.0.1 image.res.meizu.com
 127.0.0.1 log.avlyun.com
 127.0.0.1 avlyun.com
 127.0.0.1 qq.com
