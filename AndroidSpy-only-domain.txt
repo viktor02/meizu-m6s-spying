@@ -1,8 +1,14 @@
+exception.uxip.meizu.com
+mvconf.f.360.cn
+ni.qingmang.mobi
+uxip.meizu.com
+uxip.in.meizu.com
+i.flyme.cn
+image.res.meizu.com
 log.avlyun.com
 avlyun.com
 qq.com
 icecyber.org
-meizu.com
 mozaws.net
 settings.prod.mozaws.net
 open-app.meizu.com
