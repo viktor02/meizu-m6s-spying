@@ -20,3 +20,4 @@ apptornado.com
 appbrain.com
 location.services.mozilla.com
 doubleclick.net
+onemind.res.meizu.com
